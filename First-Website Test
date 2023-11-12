@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sebastian's Personal Page</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #FFFFE0; /* Light Yellow */
+      color: #333; /* Dark Gray */
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      text-align: center;
+      padding: 2rem;
+      background-color: #FFD700; /* Gold */
+      color: #333; /* Dark Gray */
+    }
+
+    section {
+      padding: 2rem;
+    }
+
+    h1, h2, h3 {
+      color: #333; /* Dark Gray */
+    }
+
+    h2 {
+      border-bottom: 2px solid #333; /* Dark Gray */
+      padding-bottom: 0.5rem;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      background-color: #FFD700; /* Gold */
+      color: #333; /* Dark Gray */
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Sebastian</h1>
+    <p>Korean American | Certified AutoCAD Technician</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Bilingual professional with experience as a certified AutoCAD technician. I have worked on projects for high-tech industrial buildings, including Google, Amazon, Facebook, and Apple.</p>
+    <p>In my free time, I enjoy building PCs and learning the latest tech software.</p>
+  </section>
+
+  <section>
+    <h2>Experience</h2>
+    <p>Certified AutoCAD Technician</p>
+    <p>Worked on projects for Google, Amazon, Facebook, Apple, and more.</p>
+  </section>
+
+  <section>
+    <h2>Hobbies</h2>
+    <p>Building PCs</p>
+    <p>Learning the latest tech software</p>
+  </section>
+
+  <footer>
+    <p>Contact me at: your@email.com</p>
+  </footer>
+
+</body>
+</html>
